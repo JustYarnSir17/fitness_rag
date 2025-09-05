@@ -65,11 +65,9 @@
 
     *   맞춤형 운동 루틴/식단 추천
     *   근거 문서 또는 웹 검색 결과 제공
+    *   
+<img width="917" height="3325" alt="Image" src="https://github.com/user-attachments/assets/03096f62-1a4d-4455-9955-2e48cde4fff5" />
 
-![image.png](/file/effd97a31580435e8c389d24ea7a8053_1162.png)
-
-
-
-![image.png](/file/a7fa1bc582a748e0aa954f9a92f09e44_1215.png)
+<img width="1714" height="1239" alt="Image" src="https://github.com/user-attachments/assets/c30d0d66-0f70-4ed1-bdcd-3af29c09e84c" />
 
 ##
